@@ -1,2 +1,2 @@
-def fun(x):
-    return x
+def fun(x,y):
+    return x+y
